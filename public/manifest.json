@@ -1,6 +1,7 @@
 {
-  "short_name": "Calculator",
-  "name": "React Calculator Example App",
+  "short_name": "SM Calc",
+  "name": "Sheetmetal Calculator",
+  "homepage": "http://capraroyale.github.io/calculator",
   "icons": [
     {
       "src": "favicon.ico",
